@@ -1,0 +1,182 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.2",
+    "versionPublish": "2.3.2",
+    "name": "Mobirise2_UA"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "analytics": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-brand__name a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "12px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": "{PROJECT_IMAGES}logo.png",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PROJECT INTERIEURARCHITECTUUR<br>UA / MIXED-MEDIA</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">START</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">FOTOGRAFIE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-7\">ARCHIVEREN &amp; PUBLICEREN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.bureaupixel.be/edu/nl/departementen/interieur-architectuur-universiteit-antwerpen\" target=\"_blank\">ONLINE CURSUS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header1-8",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "{PROJECT_IMAGES}archive2453x1637-1412000x1335-141.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#28324e",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "MULTIDISCIPLINARITEIT en MIXED MEDIA",
+          "text": "Onderdeel van de module Multidisciplinariteit in de opleiding Bachelor IA <br>&nbsp;Faculteit Ontwerpwetenschappen - Universiteit Antwerpen",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"index.html#header3-5\" data-toolbar=\"-mbrBtnMove\">FOTOGRAFIE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#header3-7\" data-toolbar=\"-mbrBtnMove\">ARCHIVEREN &amp; PUBLICEREN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://bureaupixel.be/edu/nl/departementen/interieur-architectuur-universiteit-antwerpen\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AANMELDEN ONLINE CURSUS</a>"
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "header3-5",
+          "title": "<br>FOTOGRAFIE",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "docente: Faryda Moumouh"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-6",
+          "text": "<p>Deze lessenreeks vertrekt vanuit de beeldende kracht van het fotografische beeld. Met de nadruk op hoe de foto mee een multidisciplaire functie kan vervullen in zowel het denken, het ontwerpproces als uiteindelijk het beeldmateriaal voor concrete presentaties en publicaties. Deze worden zowel analoog als digitaal verwerkt. Ook multidisciplinair durven denken door een dialoog aan te gaan met andere beeldende vormen, als tekening, schets, collage, mixed media en renderingen, waar het fotografische beeld een onderdeel wordt van de volledige visualisering. Hier krijg je de mooie kruisbestuiving van fotografie en de beeldende taal waar ook linken worden gemaakt met de beeldende kunsten. </p><p>De lessen vertrekken van ontwerpstudies, schetsen, foto’s en allerhande visuele vormen van beeldmateriaal, samengebracht door de student. Om zo een crossover verwerking te krijgen tussen verschillende media. &nbsp;&nbsp;</p>"
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "header3-7",
+          "title": "<br><br>ARCHIVEREN &amp; PUBLICEREN",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "docent: Bram Overstijns"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-8",
+          "text": "<p>Deze lessenreeks behandelt online verhaalstructuren, communicatie en de toepassing van archieven, sociale media en software in artistieke werkprocessen.&nbsp;</p><p>Studenten bouwen - per groep - een online archief op met beeld, geluid, video en data rond de realisatie van het project. Dit materiaal dient als bron voor een online publicatie; een digitale representatie van het werkproces en het presentatie van het resultaat.\"</p>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "content1-10",
+          "text": "<p><br></p><p><br></p><h3>Door deze dubbele aanpak willen we studenten uitdagen om na te denken over de vorm en functie van beelden en deze te integreren in een innovatieve communicatie in een kunstpraktijk - in dialoog met case-study’s, reflectie– en presentatieportfolio’s en de andere onderdelen uit het project.</h3>"
+        },
+        {
+          "_name": "contacts1",
+          "_anchor": "contacts1-7",
+          "_params": {
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}grijs300x130-111.png",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": "{PROJECT_IMAGES}tekstnaast-zwart6150x65-178.png",
+          "text1": "<strong>Bachelor Interieurarchitectuur</strong><br>Campus Mutsaard  <br>Mutsaardstraat 31  <br>2000 Antwerpen&nbsp;<br>",
+          "text2": "<strong>Copyright&nbsp;</strong> (c) 2015<br>module multidisciplinariteit<br>&nbsp;<br>Faryda Moumouh<br>Bram Overstijns",
+          "text3": "<p class=\"mbr-contacts__text\"><b>&nbsp;</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.bureaupixel.be/edu/nl/user/\" target=\"_blank\" class=\"text-gray\">Aanmelden</a><a class=\"mbr-contacts__link text-gray\" href=\"http://mobirise.com/\"></a></li><li><a href=\"https://www.bureaupixel.be/edu/nl/departementen/interieur-architectuur-universiteit-antwerpen\" target=\"_blank\" class=\"text-gray\">Online leermateriaal</a><a class=\"mbr-contacts__link text-gray\" href=\"http://mobirise.com/mobirise-free-win.zip\"></a></li><li><br></li></ul>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-10",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Ontwerpwetenschappen / Bachelor Interieurarchitectuur &nbsp;/&nbsp;&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"http://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {},
+      "components": []
+    }
+  }
+}
